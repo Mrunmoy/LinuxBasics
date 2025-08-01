@@ -1,0 +1,30 @@
+# Build folders
+/build/
+/**/build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Executables and binaries
+*.out
+*.exe
+*.o
+*.a
+*.so
+*.bin
+*.elf
+*.txt
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
