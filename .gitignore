@@ -16,6 +16,7 @@ Makefile
 *.so
 *.bin
 *.elf
+*.txt
 
 # Editor files
 *.swp

@@ -1,3 +1,3 @@
-hello FD world!
-i am liking this ...
-let's check what this file really contains.
+this is first line
+this is second line
+this is third line
